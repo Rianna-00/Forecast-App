@@ -9,11 +9,17 @@ export default function App() {
         <Weather defaultCity="New York" />
 
         <footer>
-          This project was coded by Rianna Modi 
+          This project was coded by{" "}
+          <a
+            href=""
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Rianna Modi
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/rianna-00/forecast-app/"
+            href="https://github.com/Rianna-00/Forecast-App.git"
             target="_blank"
             rel="noopener noreferrer"
           >
