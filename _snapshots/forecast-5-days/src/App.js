@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href=""
+            href="https://github.com/Rianna-00/Forecast-App.git"
             target="_blank"
             rel="noopener noreferrer"
           >
